@@ -1,4 +1,4 @@
-# 📝 Gerenciador de Tarefas Diárias
+# Gerenciador de Tarefas Diárias
 
 ## Descrição
 
